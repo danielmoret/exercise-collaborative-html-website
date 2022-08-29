@@ -6,7 +6,9 @@ Each student works on a different file, for a different part of the website, and
 
 # Collaborators
 @PieroMastro -> navbar.html - tagline.html
+
 @danielmoret -> first_heading.html - services.html - portfolio.html
+
 @Apollosm -> contact.html
 
 ## 📝 Instructions
