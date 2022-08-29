@@ -6,7 +6,9 @@ Cada alumno trabajará en un archivo diferente para cada parte diferente del sit
 
 # Colaboradores
 @PieroMastro -> navbar.html - tagline.html
+
 @danielmoret -> first_heading.html - services.html - portfolio.html
+
 @Apollosm -> contact.html
 
 
